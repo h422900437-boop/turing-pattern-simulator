@@ -1,0 +1,7 @@
+# Core computation libraries
+numpy>=1.20.0
+# GPU acceleration library (Choose the suffix matching your system's CUDA version, e.g., 12x, 11x)
+cupy-cuda12x>=12.9.0
+# Visualization library
+matplotlib>=3.4.0
+scipy>=1.7.0
