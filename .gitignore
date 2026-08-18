@@ -208,3 +208,7 @@ __marimo__/
 
 # Legacy/Unoptimised versions
 Unoptimised version (for reference)/
+
+# macOS
+.DS_Store
+**/.DS_Store
